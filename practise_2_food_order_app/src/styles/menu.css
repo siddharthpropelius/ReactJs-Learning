@@ -1,0 +1,17 @@
+.container_menu{
+    max-width: 80%;
+    margin:0px auto 0px auto;
+    background-color: darkgray;
+    display:flex;
+    flex-wrap:wrap;
+    gap:40px;
+}
+.wrapper_menu{
+    margin: auto;
+    padding-top: 50px;
+}
+.wrapper_menu img{
+    width:300px;
+    height:200px;
+    object-fit: cover;
+}
